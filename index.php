@@ -5,10 +5,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- My CSS -->
     <link rel="stylesheet" href="css/responsive_main.css">
     <link rel="stylesheet" href="css/paper.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <!-- adobe fonts -->
+    <link rel="stylesheet" href="https://use.typekit.net/tkq4iko.css">
 </head>
 
 <body>
@@ -49,7 +52,7 @@
 
         <div>
             <div class="headlines">
-                <h1>HEADLINES</h1>
+                <h1>Grave Matters and Gold Clatters *!*</h1>
             </div>
         </div>
 
@@ -62,28 +65,20 @@
                             <img src="https://bootsnipp.com/bootstrap-builder/libs/builder/icons/image.svg" height="28" width="28" class="card-img-top" alt="Author Picture">
                             <span class="author">by Snaptrap Sneezle</span>
                         </div>
-                        <h5 class="card-title">Murloc Madness!</h5>
-                        <p class="card-text">Mrglglglgl! Rumblecoin’s deals be the best, coin-lovin' gibblewrench lorem
-                            ipsum gallywix gold. Azeroth's finest blingfitz and steamwiggle, glimmering azurite trinkets
-                            to
-                            gizmocopter ventures, aye! Estate-plunder and pocket-fillin', sparkjolt hustlebuzz in the
-                            tradewinds market—glittering and glinting with every mekgineer's dream.
-                            Gazlowe-approved, copperpinch lorem ipsum, grime-encrusted cogspark to the gold-grubbin'
-                            loot-lifter, from Kajaro to the Slippery Slopes of Kezan.
-                            Gold-hungry, loot-lovin’, trinket-totin' entrepreneurs of fortune, we never goblin up the
-                            chance
-                            to turn a profit, no sir! From the gravesite to the bank vault, trust in the Undermine
-                            Undertakers—where every deal's a steal and every steal's a deal, mrglglglgl!
+                        <h5 class="card-title">'final service extravaganza'</h5>
+                        <p class="card-text">In the bustling bazaar of Ratchet, where the clinks of gold are as common as the clatter of gears, a peculiar scene unfolded that even the most brazen buccaneer couldn't help but gawk at. The Undermine Undertakers, Azeroth's premier post-mortem property purveyors, found themselves swamped with applicants - a motley crew of goblins of all shapes and grins, each clamoring to join the ranks of the most spirited (and profitable) enterprise this side of the Great Sea.
+
+                            Led by Lastrights Rumblecoin, a goblin so shrewd he'd charge you for the dirt your boots carried into his office, the Undertakers had put out the call for additional hands. Or claws. Or whatever appendages one might bring to the table. "Graveyard shifts ain't never been this lively!" cackled Lastrights, his own pockets jingling with the sound of success.
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <img src="/images/gob-kungfu.png" alt="Angry Goblins">
                         <div id="gob-photo">Picture by F-stop Fizzlefreak</div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <h5 class="card-title">Goblin Tools</h5>
                         <p class="card-text">
@@ -98,47 +93,20 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <p class="card-text">
-                            No hexweave bag too big, no loot too
-                            lewt! Undertakin' with a side of goblin-tech innovation, all guaranteed by the Bilgewater
-                            Cartel
-                            lorem ipsum—savvy?
-                            Kablooey kablam, estate-bargain blastpowder deals, shrewd and shinyslick, Lastrights
-                            Rumblecoin
-                            don't dabble in no dud-loot fizzles! Mrglglglgl! Tinkerin' with the thunderous thumpwhistle
-                            of a
-                            hundred goblin workshops—grease-stained plans for the afterlife, to the battle-boom of the
-                            Undermine's deepest lorem ipsum.
-
-                            Hustle and bustle, coin clinkin', and auction housin'—never a dull shard when the
-                            Undertakers
-                            are in town. From the fizzletorque flimflams to the zappyzoom of a goblin rocket, we've got
-                            your
-                            back in the hardcore realms, mrglglglgl! So, when the heroes fall, Rumblecoin's crew will be
-                            there with a deal and a dynamite sendoff, Azeroth-style!
-
-                            Gold-hungry, loot-lovin’, trinket-totin' entrepreneurs of fortune, we never goblin up the
-                            chance
-                            to turn a profit, no sir! From the gravesite to the bank vault, trust in the Undermine
-                            Undertakers—where every deal's a steal and every steal's a deal, mrglglglgl
+                            But why the sudden surge of wannabe undertakers? Well, it seems that the heroes of the hardcore realms had been biting the dust with such frequency that the Undertakers' ledger looked more like a tome than a tally sheet. "Heroes falling left and right, and every one of them needs a proper send-off!" Lastrights had declared. After all, even the bravest human, trembling before their untimely demise, deserved a final farewell worthy of song—or at least a footnote in "mrglglglgl."
+                            
+                            The Ratchet office, usually reserved for hush-hush deals and the occasional coin-counting contest, had been transformed into a raucous recruitment rally. Hopefuls arrived with shovels slung over shoulders, embalming fluid samples, and some even sporting prototype pocket-sized tombstones for the adventurer on the go.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <p class="card-text">
-                            Hustle and bustle, coin clinkin', and auction housin'— never a dull shard when the
-                            Undertakers are in town. From the fizzletorque flimflams to the zappyzoom of a goblin
-                            rocket, we've got your back in the hardcore realms, mrglglglgl! So, when the heroes fall,
-                            Rumblecoin's crew will be there with a deal and a dynamite sendoff, Azeroth-style!
-
-                            Gold-hungry, loot-lovin’, trinket-totin' entrepreneurs of fortune, we never goblin up the
-                            chance to turn a profit, no sir! From the gravesite to the bank vault, trust in the
-                            Undermine Undertakers—where every deal's a steal and every steal's a deal, mrglglglgl!
-
-                            Mrglglglgl! Step right up, bargain-bringers and coin-clinkers, to the rumble and bustle of
-                            Rumblecoin's realm! We got deals that make even the Steamwheedle Cartel's heads spin, lorem
-                            ipsum with a sizzle-pop of goblin gusto. Kezan's finest, from the tips of your tophats to
-                            the heels of your quickstrider boots, all the way down to the Undermine's glimmering depths.
+                            "It's all about efficiency," winked a wide-eyed applicant, unveiling a tombstone that doubled as a dinner plate.
+                            
+                            Lastrights surveyed the chaos with glee. Each new recruit meant more hands to dig, more pockets to fill, and, most importantly, more eyes to witness his entrepreneurial empire. The deaths, the destruction, the quivering humans meeting their end - it was all part of the cycle of loot and life in Azeroth. And at the center of it all, the Undermine Undertakers reaped the rewards, their laughter echoing through the streets, mingling with the clinks of their ill-gotten gains and the inevitable cries of those heroes yet to fall.
+                            
+                            "Apply within!" the sign read, bobbing above the crowd. "Where there's doom, there's gold!" And in the world of the Undertakers, business was booming—or should we say, "dooming"?
                         </p>
                     </div>
                 </div>
