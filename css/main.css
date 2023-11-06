@@ -56,6 +56,13 @@ body {
     --bs-card-bg: #fff0;
 }
 
+.author {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px; /* Adjust as necessary for spacing */
+}
+
+
 .news-columns-top {
     display: flex;
     flex-direction: row;
