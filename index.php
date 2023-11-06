@@ -117,7 +117,7 @@
             <div class="card mt-8" style="width: 40%;">
                 <div class="card-body">
                     <p class="card-text">
-                        <h5 class="card-title">Stock Market</h5>
+                    <h5 class="card-title">Stock Market</h5>
                     <ul>
                         <li><strong>BBE</strong> - as volatile as a barrel of Blast-O-Powder.</li>
                         <li><strong>BB&PP</strong> - the shadowy side of goblin politics.</li>
@@ -134,7 +134,7 @@
             <div class="card mt-8" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text">
-                        <h5 class="card-title">Index</h5>
+                    <h5 class="card-title">Index</h5>
                     <ul>
                         <li>Business</li>
                         <li>Politics</li>
@@ -163,16 +163,16 @@
 
             <div class="card mt-8" style="width: 30%;">
                 <div class="card-body">
+                    <h5 class="card-title">Weather</h5>
                     <p class="card-text">
-                        Index:
                     <ul>
-                        <li>Business</li>
-                        <li>Politics</li>
-                        <li>Page 3</li>
-                        <li>Entertainment</li>
-                        <li>Obituaries</li>
-                        <li>Classifieds</li>
-                        <li>Sports</li>
+                        <li>Alterac</li>
+                        <li>Azhara</li>
+                        <li>Barrens</li>
+                        <li>Dun Morogh</li>
+                        <li>Durotar</li>
+                        <li>Westfall</li>
+                        <li>Winterspring</li>
                     </ul>
                     </p>
                 </div>
@@ -182,11 +182,21 @@
                 <div class="card-body">
                     <h5 class="card-title">Story Two</h5>
                     <p class="card-text">
-                        Bargains blasted out of the boom-boom room, shiny and shrewd, Lastrights ain't no common loot-monger. Mrglglglgl! We wheel, we deal, we steal (but only the best deals, promise!), in the grand goblin tradition of profit above all! Every hero's end is a new profit trend—estate services with the Rumblecoin guarantee, glimmering with the sheer brilliance of a Blingtron circuit board.
+                        Bargains blasted out of the boom-boom room, shiny and shrewd, Lastrights ain't no common
+                        loot-monger. Mrglglglgl! We wheel, we deal, we steal (but only the best deals, promise!), in the
+                        grand goblin tradition of profit above all! Every hero's end is a new profit trend—estate
+                        services with the Rumblecoin guarantee, glimmering with the sheer brilliance of a Blingtron
+                        circuit board.
 
-                        Tick-tock, time's a-wastin'—time is money, friend! And our time's spent ensuring the finest fizzletop memorials and money-makin' opportunities, from this world to the next. Venture Company moguls and Bilgewater barons, they all know the name Lastrights Rumblecoin—master of coinage, undertaker extraordinaire, mrglglglgl!
-                        
-                        From the shiny shores of Silvermoon to the musty money vaults of Ironforge, our goblin fingers are in every pie—rich with the aroma of profit. Deals done dirt cheap, but never cheap on quality, no sir! In Hardcore mode, when the stakes are high, trust in the Undermine Undertakers to carry your legacy... and your bags of gold, mrglglglgl!</p>
+                        Tick-tock, time's a-wastin'—time is money, friend! And our time's spent ensuring the finest
+                        fizzletop memorials and money-makin' opportunities, from this world to the next. Venture Company
+                        moguls and Bilgewater barons, they all know the name Lastrights Rumblecoin—master of coinage,
+                        undertaker extraordinaire, mrglglglgl!
+
+                        From the shiny shores of Silvermoon to the musty money vaults of Ironforge, our goblin fingers
+                        are in every pie—rich with the aroma of profit. Deals done dirt cheap, but never cheap on
+                        quality, no sir! In Hardcore mode, when the stakes are high, trust in the Undermine Undertakers
+                        to carry your legacy... and your bags of gold, mrglglglgl!</p>
                 </div>
             </div>
 
