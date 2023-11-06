@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sub-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: small;
+}
