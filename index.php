@@ -63,7 +63,7 @@
                     <div class="card mt-8">
                         <div class="author-media"> <!-- This div will be the flex container -->
                             <img src="https://bootsnipp.com/bootstrap-builder/libs/builder/icons/image.svg" height="28" width="28" class="card-img-top" alt="Author Picture">
-                            <span class="author">by Snaptrap Sneezle</span>
+                            <span class="author">by Wizzik Sprocketslip</span>
                         </div>
                         <h5 class="card-title">'final service extravaganza'</h5>
                         <p class="card-text">In the bustling bazaar of Ratchet, where the clinks of gold are as common as the clatter of gears, a peculiar scene unfolded that even the most brazen buccaneer couldn't help but gawk at. The Undermine Undertakers, Azeroth's premier post-mortem property purveyors, found themselves swamped with applicants - a motley crew of goblins of all shapes and grins, each clamoring to join the ranks of the most spirited (and profitable) enterprise this side of the Great Sea.
