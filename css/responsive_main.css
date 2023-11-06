@@ -59,6 +59,11 @@ body {
     width: 10%;
 }
 
+.img-fluid {
+    max-width: 100%;
+    height: auto; /* This ensures that the aspect ratio is maintained */
+}
+
 .author-media {
     display: flex;
     align-items: flex-start;

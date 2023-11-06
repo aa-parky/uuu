@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <!-- My CSS -->
     <link rel="stylesheet" href="css/responsive_main.css">
     <link rel="stylesheet" href="css/paper.css">
@@ -52,7 +53,7 @@
 
         <div>
             <div class="headlines">
-                <h1>Grave Matters and Gold Clatters *!*</h1>
+                Grave Matters and Gold Clatters *!*
             </div>
         </div>
 
@@ -62,13 +63,24 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="author-media"> <!-- This div will be the flex container -->
-                            <img src="https://bootsnipp.com/bootstrap-builder/libs/builder/icons/image.svg" height="28" width="28" class="card-img-top" alt="Author Picture">
+                            <img src="https://bootsnipp.com/bootstrap-builder/libs/builder/icons/image.svg" height="28"
+                                width="28" class="card-img-top" alt="Author Picture">
                             <span class="author">by Wizzik Sprocketslip</span>
                         </div>
                         <h5 class="card-title">'final service extravaganza'</h5>
-                        <p class="card-text">In the bustling bazaar of Ratchet, where the clinks of gold are as common as the clatter of gears, a peculiar scene unfolded that even the most brazen buccaneer couldn't help but gawk at. The Undermine Undertakers, Azeroth's premier post-mortem property purveyors, found themselves swamped with applicants - a motley crew of goblins of all shapes and grins, each clamoring to join the ranks of the most spirited (and profitable) enterprise this side of the Great Sea.
-
-                            Led by Lastrights Rumblecoin, a goblin so shrewd he'd charge you for the dirt your boots carried into his office, the Undertakers had put out the call for additional hands. Or claws. Or whatever appendages one might bring to the table. "Graveyard shifts ain't never been this lively!" cackled Lastrights, his own pockets jingling with the sound of success.
+                        <p class="card-text">
+                            In the bustling bazaar of Ratchet, where the clinks of gold are as common as the clatter of
+                            gears, a peculiar scene unfolded that even the most brazen buccaneer couldn't help but gawk
+                            at. The Undermine Undertakers, Azeroth's premier post-mortem property purveyors, found
+                            themselves swamped with applicants - a motley crew of goblins of all shapes and grins, each
+                            clamoring to join the ranks of the most spirited (and profitable) enterprise this side of
+                            the Great Sea.
+                        </p>
+                        <p>
+                            Led by Lastrights Rumblecoin, a goblin so shrewd he'd charge you for the dirt your boots
+                            carried into his office, the Undertakers had put out the call for additional hands. Or
+                            claws. Or whatever appendages one might bring to the table. "Graveyard shifts ain't never
+                            been this lively!" cackled Lastrights, his own pockets jingling with the sound of success.
                         </p>
                     </div>
                 </div>
@@ -82,7 +94,7 @@
                     <div class="card mt-8">
                         <h5 class="card-title">Goblin Tools</h5>
                         <p class="card-text">
-                            ADVERTISE HERE!
+                            <img src="/images/mrgl-magah-00.png" class="img-fluid" alt="Mrgl Magah">
                         </p>
                     </div>
                 </div>
@@ -93,20 +105,40 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <p class="card-text">
-                            But why the sudden surge of wannabe undertakers? Well, it seems that the heroes of the hardcore realms had been biting the dust with such frequency that the Undertakers' ledger looked more like a tome than a tally sheet. "Heroes falling left and right, and every one of them needs a proper send-off!" Lastrights had declared. After all, even the bravest human, trembling before their untimely demise, deserved a final farewell worthy of song—or at least a footnote in "mrglglglgl."
-                            
-                            The Ratchet office, usually reserved for hush-hush deals and the occasional coin-counting contest, had been transformed into a raucous recruitment rally. Hopefuls arrived with shovels slung over shoulders, embalming fluid samples, and some even sporting prototype pocket-sized tombstones for the adventurer on the go.
+                            But why the sudden surge of wannabe undertakers? Well, it seems that the heroes of the
+                            hardcore realms had been biting the dust with such frequency that the Undertakers' ledger
+                            looked more like a tome than a tally sheet. "Heroes falling left and right, and every one of
+                            them needs a proper send-off!" Lastrights had declared. After all, even the bravest human,
+                            trembling before their untimely demise, deserved a final farewell worthy of song—or at least
+                            a footnote in "mrglglglgl."
+                        </p>
+                        <p>
+                            The Ratchet office, usually reserved for hush-hush deals and the occasional coin-counting
+                            contest,
+                            had been transformed into a raucous recruitment rally. Hopefuls arrived with shovels slung
+                            over shoulders
+                            embalming fluid samples, and some even sporting prototype
+                            pocket-sized tombstones for the adventurer on the go.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <p class="card-text">
-                            "It's all about efficiency," winked a wide-eyed applicant, unveiling a tombstone that doubled as a dinner plate.
-                            
-                            Lastrights surveyed the chaos with glee. Each new recruit meant more hands to dig, more pockets to fill, and, most importantly, more eyes to witness his entrepreneurial empire. The deaths, the destruction, the quivering humans meeting their end - it was all part of the cycle of loot and life in Azeroth. And at the center of it all, the Undermine Undertakers reaped the rewards, their laughter echoing through the streets, mingling with the clinks of their ill-gotten gains and the inevitable cries of those heroes yet to fall.
-                            
-                            "Apply within!" the sign read, bobbing above the crowd. "Where there's doom, there's gold!" And in the world of the Undertakers, business was booming—or should we say, "dooming"?
+                            "It's all about efficiency," winked a wide-eyed applicant, unveiling a tombstone that
+                            doubled as a dinner plate.
+                        </p>
+                        <p> Lastrights surveyed the chaos with glee. Each new recruit meant more hands to dig, more
+                            pockets to fill, and, most importantly, more eyes to witness his entrepreneurial empire. The
+                            deaths, the destruction, the quivering humans meeting their end - it was all part of the
+                            cycle of loot and life in Azeroth.
+                        </p>
+                        <p>And at the center of it all, the Undermine Undertakers
+                            reaped the rewards, their laughter echoing through the streets, mingling with the clinks of
+                            their ill-gotten gains and the inevitable cries of those heroes yet to fall.
+
+                            "Apply within!" the sign read, bobbing above the crowd. "Where there's doom, there's gold!"
+                            And in the world of the Undertakers, business was booming—or should we say, "dooming"?
                         </p>
                     </div>
                 </div>
@@ -158,22 +190,68 @@
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="card mt-8">
-                        <h5 class="card-title">STORY TWO</h5>
-                        Bargains blasted out of the boom-boom room, shiny and shrewd, Lastrights ain't no common
-                        loot-monger. Mrglglglgl! We wheel, we deal, we steal (but only the best deals, promise!), in the
-                        grand goblin tradition of profit above all! Every hero's end is a new profit trend—estate
-                        services with the Rumblecoin guarantee, glimmering with the sheer brilliance of a Blingtron
-                        circuit board.
+                        <div class="author-media"> <!-- This div will be the flex container -->
+                            <img src="https://bootsnipp.com/bootstrap-builder/libs/builder/icons/image.svg" height="28"
+                                width="28" class="card-img-top" alt="Author Picture">
+                            <span class="author">by Trixie Boomsparkle</span>
+                        </div>
+                        <h5 class="card-title">Scales and Tales: Ratchet's Murloc Bikini Contest Makes a Splash!</h5>
+                        RATCHET, Azshara Coast – It was a day that promised sun, surf, and a sensational array of scaled
+                        contestants as Ratchet played host to the first-ever Murloc Bikini Contest. The shoreline was
+                        awash with the latest in aquatic fashion, but as the waves rolled in, so did a tide of troubles
+                        that even the saltiest of seadogs hadn't seen coming.
+                        <p>
+                            The event, dubbed "The Siren's Parade," was the brainchild of Glix Wavesmasher, a goblin
+                            with an
+                            eye for business and a love for the utterly unconventional. "Why should landwalkers have all
+                            the
+                            fun?" Glix proclaimed. But as the day unfolded, it became clear that what works in theory
+                            can
+                            often flounder on the shores of reality.</p>
+                        <p>
+                            First to strut their stuff on the shell-studded catwalk were the Mur'glam twins, sporting
+                            seaweed sashes and clamshell couture that drew gasps from the crowd. But the awe turned to
+                            alarm
+                            when their starfish accessories took on a life of their own, scuttling away and causing
+                            quite
+                            the commotion among the front-row spectators.</p>
+                        <p>
+                            Midway through the contest, a particularly robust murloc contestant, Mrgl the Mighty,
+                            presented
+                            a stunning spectacle with an ensemble featuring live guppies. However, the fishy fashion
+                            statement quickly backfished, turning the catwalk into a freestyle frenzy as the guppies
+                            made a
+                            break for open water, with Mrgl flailing fin over webbed foot to catch them.</p>
+                        <p>
+                            The event spiraled into further pandemonium when the grand finale took an unexpected dive.
+                            As
+                            the reigning queen of the murlocs, Glrgl the Gleaming, made her appearance adorned in what
+                            can
+                            only be described as an "oceanic opera" of bioluminescent barnacles, the entire dock was
+                            plunged
+                            into darkness as overzealous fans inadvertently knocked over a generator in their
+                            excitement.</p>
 
-                        Tick-tock, time's a-wastin'—time is money, friend! And our time's spent ensuring the finest
-                        fizzletop memorials and money-makin' opportunities, from this world to the next. Venture Company
-                        moguls and Bilgewater barons, they all know the name Lastrights Rumblecoin—master of coinage,
-                        undertaker extraordinaire, mrglglglgl!
+                        <p> In the end, the murlocs didn't seem to mind the mishaps. They frolicked and caroled in their
+                            unique gurgling dialect, basking in the spotlight and the adoration of their fans. Glix
+                            Wavesmasher, ever the opportunist, declared the event a "resounding success" amid the chaos,
+                            vowing to make the Murloc Bikini Contest an annual tradition.</p>
+                        <p>
+                            Despite the setbacks, one thing was clear: the combination of murloc fashionistas and goblin
+                            entrepreneurial spirit had created an event that Ratchet would not soon forget. As the sun
+                            set
+                            on the sparkling sands, murmurs of next year's contest bubbled to the surface, with promises
+                            of
+                            bigger splashes and even more extravagant sea-inspired apparel.</p>
+                        <p>
+                            For those who missed the spectacle, worry not. Plans are already in the works for a "Siren's
+                            Encore," complete with life vests for the front rows and an emergency fish wrangler on
+                            standby.
+                            It's a scale tale for the ages, and this reporter will be here, quill in hand, to document
+                            every
+                            shimmering, shambling step.</p>
 
-                        From the shiny shores of Silvermoon to the musty money vaults of Ironforge, our goblin fingers
-                        are in every pie—rich with the aroma of profit. Deals done dirt cheap, but never cheap on
-                        quality, no sir! In Hardcore mode, when the stakes are high, trust in the Undermine Undertakers
-                        to carry your legacy... and your bags of gold, mrglglglgl!
+                        Until then, keep your fins flirty and your scales sparkling, Ratchet!
                     </div>
                 </div>
             </div>

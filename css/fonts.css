@@ -1,5 +1,27 @@
+#flex-header-center {
+    font-family: "hwt-artz", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+} 
+
 .headlines {
     font-family: "hwt-artz", sans-serif;
     font-weight: 700;
     font-style: normal;
+    font-size: 5rem; /* Default font size for large screens (desktops) */
 }
+
+/* For medium screens (tablets) */
+@media (max-width: 991px) {
+    .headlines {
+        font-size: 4rem; /* Smaller font size for medium screens */
+    }
+}
+
+/* For small screens (mobile devices) */
+@media (max-width: 767px) {
+    .headlines {
+        font-size: 3rem; /* Even smaller font size for small screens */
+    }
+}
+
