@@ -1,3 +1,4 @@
+
 html, body {
     margin: 0;
     padding: 0;
@@ -8,8 +9,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-
-
 
 .content {
     width: 80%;
@@ -28,27 +27,27 @@ body {
     align-items: center;
     justify-content: space-around;
     border-top: 2px dotted;
-    width: 90%;
-    margin-left: 5%;
+    width: 80%;
+    margin-left: 10%;
 }
 
-.header {
+.header, .sub-header, .headlines {
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    margin-bottom: 1rem;
 }
 
-.sub-header {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    font-size: small;
+/* News columns styling for desktop to large screens */
+.news-column {
+    margin-bottom: 1rem;
+    flex: 0 0 auto; /* Don't grow, don't shrink, basis is auto */
+    padding: 0.5rem;
+    max-width: 300px; /* Maximum width for a news card */
+    min-width: 200px; /* Minimum width for a news card */
 }
 
-.headlines {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+.mt-8 {
+    margin: 8px !important;
 }
 
 .card {
@@ -56,54 +55,40 @@ body {
     --bs-card-bg: #fff0;
 }
 
+.card-img, .card-img-bottom, .card-img-top {
+    width: 10%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto; /* This ensures that the aspect ratio is maintained */
+}
+
+.author-media {
+    display: flex;
+    align-items: flex-start;
+}
+
 .author {
-    display: inline-block;
-    vertical-align: top;
-    margin-left: 5px; /* Adjust as necessary for spacing */
+    margin-right: 10px; /* Adjust as necessary for spacing */
 }
 
 
-.news-columns-top {
-    display: flex;
-    flex-direction: row;
+/* Bootstrap grid breakpoints adjustments */
+@media (min-width: 992px) { /* Desktops */
+    .news-column {
+        flex-basis: 33.333%; /* 3 columns in a row */
+    }
 }
 
-.news-columns-mid {
-    display: flex;
-    flex-direction: row;
+@media (min-width: 576px) and (max-width: 991px) { /* Tablets */
+    .news-column {
+        flex-basis: 50%; /* 2 columns in a row */
+    }
 }
 
-.news-columns-bottom {
-    display: flex;
-    flex-direction: row; 
+@media (max-width: 575px) { /* Mobiles */
+    .news-column {
+        flex-basis: 100%; /* 1 column in a row */
+    }
 }
-
-.mt-8 {
-    margin: 8px !important;
-}
-
-/* paper type background*/
-
-html {
-    margin: 0px;
-    box-shadow: inset 0 0 100px rgba(0,0,0,0.9);
-    background: radial-gradient(circle at 50% 0%,#e1e1e1 10%,#555);
-    height: 100%;
-    width: 100%;
-    overflow-x: hidden;
-   }
-   
-   body {
-    margin: 0px;
-    height: 100%;
-    width: 100%;
-    overflow-x: hidden;
-    background-color: #ffecb3b6;
-	background-image: url(/images/noise.webp);
-   }
-   
-   .letter {
-       box-shadow: 0 0 10px rgba(0,0,0,0.3), 0 0 300px 25px rgba(222,198,122,0.7) inset;
-   }
-
-   /* end paper type background*/
