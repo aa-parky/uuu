@@ -64,7 +64,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="author-media"> <!-- This div will be the flex container -->
-                            <img src="https://bootsnipp.com/bootstrap-builder/libs/builder/icons/image.svg" height="28"
+                            <img src="/images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" height="28"
                                 width="28" class="card-img-top" alt="Author Picture">
                             <span class="author">by Wizzik Sprocketslip</span>
                         </div>
@@ -193,7 +193,7 @@
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="card mt-8">
                         <div class="author-media"> <!-- This div will be the flex container -->
-                            <img src="https://bootsnipp.com/bootstrap-builder/libs/builder/icons/image.svg" height="28"
+                            <img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" height="28"
                                 width="28" class="card-img-top" alt="Author Picture">
                             <span class="author">by Trixie Boomsparkle</span>
                         </div>
