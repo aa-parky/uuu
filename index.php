@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <div class="container letter">
 
         <hr>
 
@@ -117,7 +117,7 @@
             <div class="card mt-8" style="width: 40%;">
                 <div class="card-body">
                     <p class="card-text">
-                        Stockmarket
+                        <h5 class="card-title">Stock Market</h5>
                     <ul>
                         <li><strong>BBE</strong> - as volatile as a barrel of Blast-O-Powder.</li>
                         <li><strong>BB&PP</strong> - the shadowy side of goblin politics.</li>
@@ -134,7 +134,7 @@
             <div class="card mt-8" style="width: 30%;">
                 <div class="card-body">
                     <p class="card-text">
-                        Index:
+                        <h5 class="card-title">Index</h5>
                     <ul>
                         <li>Business</li>
                         <li>Politics</li>
@@ -154,6 +154,7 @@
 
             <div class="card mt-8" style="width: 20%;">
                 <div class="card-body">
+                    <h5 class="card-title">GG Productions</h5>
                     <p class="card-text">
                         ADVERTISE HERE!
                     </p>
@@ -179,6 +180,7 @@
 
             <div class="card mt-8" style="width: 60%;">
                 <div class="card-body">
+                    <h5 class="card-title">Story Two</h5>
                     <p class="card-text">
                         Bargains blasted out of the boom-boom room, shiny and shrewd, Lastrights ain't no common loot-monger. Mrglglglgl! We wheel, we deal, we steal (but only the best deals, promise!), in the grand goblin tradition of profit above all! Every hero's end is a new profit trend—estate services with the Rumblecoin guarantee, glimmering with the sheer brilliance of a Blingtron circuit board.
 
@@ -190,6 +192,8 @@
 
         </div>
 
+
+
     </div> <!-- /container -->
 
     <footer class="footer">
@@ -199,6 +203,8 @@
             <div id="flex-footer-right">Right</div>
         </div>
     </footer>
+
+    <div class="paperOverlay"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
