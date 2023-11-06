@@ -1,27 +1,57 @@
-#flex-header-center {
-    font-family: "hwt-artz", sans-serif;
+#flex-header-left, #flex-header-right, #sub-dt, #sub-vol, #sub-est {
+    font-family: "poster-gothic-round-excond-a", sans-serif;
     font-weight: 700;
     font-style: normal;
-} 
+}
+
+#flex-header-left, #flex-header-right {
+    font-size: 2rem;
+}
+
+#flex-header-center {
+    font-family: "poster-gothic-round-excond-a", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 4rem;
+}
+
+#sub-dt, #sub-vol, #sub-est {
+    background-color: rgba(0, 0, 0, 0.644);
+    color: blanchedalmond;
+    padding: 6px;
+}
 
 .headlines {
     font-family: "hwt-artz", sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: 5rem; /* Default font size for large screens (desktops) */
+    font-size: 5rem;
+    /* Default font size for large screens (desktops) */
+}
+
+.typewritter {
+    font-family: "itc-american-typewriter", serif;
+    font-weight: 500;
+    font-style: normal;
+    padding: 10px;
 }
 
 /* For medium screens (tablets) */
 @media (max-width: 991px) {
-    .headlines {
-        font-size: 4rem; /* Smaller font size for medium screens */
+    #flex-header-left, #flex-header-center, #flex-header-right, .headlines {
+        font-size: 4rem;
+        /* Smaller font size for medium screens */
     }
 }
 
 /* For small screens (mobile devices) */
 @media (max-width: 767px) {
-    .headlines {
-        font-size: 3rem; /* Even smaller font size for small screens */
+    #flex-header-left, #flex-header-right, .headlines {
+        font-size: 1rem;
+        /* Even smaller font size for small screens */
+    }
+
+    #flex-header-center {
+        font-size: 1.5rem;
     }
 }
-

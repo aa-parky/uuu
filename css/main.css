@@ -34,7 +34,12 @@ body {
 .header, .sub-header, .headlines {
     display: flex;
     justify-content: space-around;
-    margin-bottom: 1rem;
+}
+
+hr {
+    height: 5px;
+    border: none; /* Remove the default border */
+    background-color: #333; /* Set the color of the hr */
 }
 
 /* News columns styling for desktop to large screens */
@@ -57,6 +62,11 @@ body {
 
 .card-img, .card-img-bottom, .card-img-top {
     width: 10%;
+}
+
+.photos-article {
+    border: 6px solid rgba(0, 0, 0, 0.479);
+    opacity: 0.8;
 }
 
 .img-fluid {
