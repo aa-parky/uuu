@@ -63,10 +63,9 @@
             <div class="row news-columns-top">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
-                        <div class="author-media"> <!-- This div will be the flex container -->
-                            <img src="/images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" height="28" width="28"
-                                class="card-img-top" alt="Author Picture">
-                            <span class="author typewritter">by Wizzik Sprocketslip</span>
+                        <div class="flex-image-text">
+                            <div class="flex-image-left"><img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" alt="News Icon"></div>
+                            <div class="flex-text-right"><span class="author typewritter">by Wizzik Sprocketslip</span></div>
                         </div>
                         <h5 class="card-title">'final service extravaganza'</h5>
                         <p class="card-text typewritter">
@@ -92,7 +91,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <img src="/images/gob-kungfu.png" class="photos-article" alt="Angry Goblins">
-                        <div id="gob-photo">Picture by F-stop Fizzlefreak</div>
+                        <div class="gob-photo">Picture by F-stop Fizzlefreak</div>
                     </div>
                     <hr>
                     <div class="soccer-table">
@@ -124,7 +123,7 @@
                                     <td>0</td>
                                     <td>0</td>
                                     <td>0</td>
-                                    
+
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
@@ -137,7 +136,7 @@
                                     <td>0</td>
                                     <td>0</td>
                                     <td>0</td>
-                                    
+
                                 </tr>
                                 <th scope="row">3</th>
                                 <td>Gadgetzan Goalrushers</td>
@@ -149,7 +148,7 @@
                                 <td>0</td>
                                 <td>0</td>
                                 <td>0</td>
-                                
+
                                 </tr>
                                 <th scope="row">4</th>
                                 <td>Kharanos Kickers</td>
@@ -161,7 +160,7 @@
                                 <td>0</td>
                                 <td>0</td>
                                 <td>0</td>
-                                
+
                                 </tr>
                                 <th scope="row">5</th>
                                 <td>Ratchet Reavers</td>
@@ -173,7 +172,7 @@
                                 <td>0</td>
                                 <td>0</td>
                                 <td>0</td>
-                                
+
                                 </tr>
                                 <th scope="row">6</th>
                                 <td>Stormwind Stallions</td>
@@ -185,7 +184,7 @@
                                 <td>0</td>
                                 <td>0</td>
                                 <td>0</td>
-                                
+
                                 </tr>
                             </tbody>
                         </table>
@@ -194,10 +193,11 @@
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="card mt-8">
-                        <h5 class="card-title">Mrgl Magah!</h5>
-                        <p class="card-text">
-                            <img src="/images/mrgl-magah-00.png" class="img-fluid photos-article" alt="Mrgl Magah">
-                        </p>
+                        <p><img src="/images/mrgl-magah-00.png" class="img-fluid photos-article" alt="Mrgl Magah"></p>
+                        <p><img src="/images/ad00.png" class="img-fluid photos-article" alt="Advert 01"></p>
+                        <p><img src="/images/mrgl-magah-03.png" class="img-fluid photos-article" alt="Movie Poster"></p>
+                        <p><img src="/images/ad002.png" class="img-fluid photos-article" alt="Advert 02"></p>
+
                     </div>
                 </div>
             </div>
@@ -246,16 +246,21 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
-                        <h5 class="card-title">Index</h5>
-                        <ul>
-                            <li>Business</li>
-                            <li>Politics</li>
-                            <li>Page 3</li>
-                            <li>Entertainment</li>
-                            <li>Obituaries</li>
-                            <li>Classifieds</li>
-                            <li>Sports</li>
+                        <div class="flex-image-text">
+                            <div class="flex-image-left"><img src="images/list_FILL0_wght400_GRAD0_opsz24.png" alt="List Icon"></div>
+                            <div class="flex-text-right"><span class="author typewritter">Index</span></div>
+                        </div>
+                        <ul class="typewritter">
+                            <li><strong>Business:</strong> Snazzle Gearfuse</li>
+                            <li><strong>Politics:</strong> Wizzik Sprocketslip</li>
+                            <li><strong>Page 3:</strong> Pixie Steamspark</li>
+                            <li><strong>Entertainment:</strong> Ziggy Gearpop</li>
+                            <li><strong>Obituaries:</strong> Sappy Goldwrench</li>
+                            <li><strong>Classifieds:</strong> Rikt Copperpinch</li>
+                            <li><strong>Sports:</strong> Blix Blastrocket</li>
                         </ul>
+                        <p><img src="/images/soccer_02.png" class="img-fluid photos-article" alt="Soccer Match"></p>
+                        <div class="gob-photo">Photograph by Capture Cap'n Crank</div>
                     </div>
                 </div>
             </div>
@@ -264,7 +269,10 @@
             <div class="row news-columns-bottom">
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card mt-8">
-                        <h5 class="card-title">Stock Market</h5>
+                        <div class="flex-image-text">
+                            <div class="flex-image-left"><img src="images/savings_FILL0_wght400_GRAD0_opsz24.png" alt="Fav Icon"></div>
+                            <div class="flex-text-right"><span class="author typewritter">Stocks</span></div>
+                        </div>
                         <ul>
                             <li><strong>BBE</strong> - as volatile as a barrel of Blast-O-Powder.</li>
                             <li><strong>BB&PP</strong> - the shadowy side of goblin politics.</li>
@@ -278,25 +286,28 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card mt-8">
-                        <h5 class="card-title">Weather</h5>
-                        <ul>
-                            <li>Alterac</li>
-                            <li>Azhara</li>
-                            <li>Barrens</li>
-                            <li>Dun Morogh</li>
-                            <li>Durotar</li>
-                            <li>Westfall</li>
-                            <li>Winterspring</li>
+                        <div class="flex-image-text">
+                            <div class="flex-image-left"><img src="images/sunny_FILL0_wght400_GRAD0_opsz24.png" alt="Sun Icon"></div>
+                            <div class="flex-text-right"><span class="author typewritter">Weather</span></div>
+                        </div>
+                        <ul class="typewritter">
+                            <li><strong>Alterac:</strong> Winds a howlin'</li>
+                            <li><strong>Azhara:</strong> Magical mists.</li>
+                            <li><strong>Barrens:</strong> Hot</li>
+                            <li><strong>Dun Morogh:</strong> Bundle up!</li>
+                            <li><strong>Durotar:</strong> Scorchin' sands</li>
+                            <li><strong>Westfall:</strong> Fields are baskin'</li>
+                            <li><strong>Winterspring:</strong> Snowing</li>
                         </ul>
                         <img src="/images/298984844751733_ref_00001_.png" class="photos-article" alt="Murloc Bikini">
+                        <div class="gob-photo">Picture by Pixel Pixik</div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="card mt-8">
-                        <div class="author-media"> <!-- This div will be the flex container -->
-                            <img src="images/favorite_FILL0_wght400_GRAD0_opsz24.png" width="28" height="28"
-                                class="card-img-top" alt="Author Picture">
-                            <span class="author typewritter">by Trixie Boomsparkle</span>
+                        <div class="flex-image-text">
+                            <div class="flex-image-left"><img src="images/favorite_FILL0_wght400_GRAD0_opsz24.png" alt="Fav Icon"></div>
+                            <div class="flex-text-right"><span class="author typewritter">by Trixie Boomsparkle</span></div>
                         </div>
                         <h5 class="card-title">Scales and Tales: Ratchet's Murloc Bikini Contest Makes a Splash!</h5>
                         <p class="card-text typewritter">

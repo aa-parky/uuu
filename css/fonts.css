@@ -50,6 +50,14 @@
     padding: 10px;
 }
 
+.gob-photo {
+    font-family: "itc-american-typewriter", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: smaller;
+    padding: 4px;
+}
+
 /* For medium screens (tablets) */
 @media (max-width: 991px) {
     #flex-header-left, #flex-header-center, #flex-header-right, .headlines {
