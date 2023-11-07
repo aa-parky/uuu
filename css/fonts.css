@@ -29,9 +29,23 @@
     /* Default font size for large screens (desktops) */
 }
 
+.card-title {
+    font-family: "itc-american-typewriter", serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 10px;
+}
+
 .typewritter {
     font-family: "itc-american-typewriter", serif;
     font-weight: 500;
+    font-style: normal;
+    padding: 10px;
+}
+
+.soccer-header {
+    font-family: "itc-american-typewriter", serif;
+    font-weight: 800;
     font-style: normal;
     padding: 10px;
 }

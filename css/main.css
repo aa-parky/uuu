@@ -42,6 +42,15 @@ hr {
     background-color: #333; /* Set the color of the hr */
 }
 
+.table>:not(caption)>*>* {
+    padding: .5rem .5rem;
+    color: var(--bs-table-color-state,var(--bs-table-color-type,var(--bs-table-color)));
+    background-color: #fff0;
+    border-bottom-width: var(--bs-border-width);
+    box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state,var(--bs-table-bg-type,var(--bs-table-accent-bg)));
+    font-size: smaller;
+}
+
 /* News columns styling for desktop to large screens */
 .news-column {
     margin-bottom: 1rem;

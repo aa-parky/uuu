@@ -64,9 +64,9 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="author-media"> <!-- This div will be the flex container -->
-                            <img src="/images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" height="28"
-                                width="28" class="card-img-top" alt="Author Picture">
-                            <span class="author">by Wizzik Sprocketslip</span>
+                            <img src="/images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" height="28" width="28"
+                                class="card-img-top" alt="Author Picture">
+                            <span class="author typewritter">by Wizzik Sprocketslip</span>
                         </div>
                         <h5 class="card-title">'final service extravaganza'</h5>
                         <p class="card-text typewritter">
@@ -83,12 +83,113 @@
                             claws. Or whatever appendages one might bring to the table. "Graveyard shifts ain't never
                             been this lively!" cackled Lastrights, his own pockets jingling with the sound of success.
                         </p>
+                        <p class="card-text typewritter">
+                            But why the sudden surge of wannabe undertakers? Well, it seems that the heroes of the
+                            hardcore realms had been biting the dust with such frequency that the Undertakers' ledger
+                            looked more like a tome than a tally sheet. </p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <img src="/images/gob-kungfu.png" class="photos-article" alt="Angry Goblins">
                         <div id="gob-photo">Picture by F-stop Fizzlefreak</div>
+                    </div>
+                    <hr>
+                    <div class="soccer-table">
+                        <div class="soccer-header">Division 1: The Champions Tier</div>
+                        <table class="table table-sm typewritter">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Team</th>
+                                    <th scope="col">Played</th>
+                                    <th scope="col">Won</th>
+                                    <th scope="col">Lost</th>
+                                    <th scope="col">Drawn</th>
+                                    <th scope="col">For</th>
+                                    <th scope="col">Against</th>
+                                    <th scope="col">GD</th>
+                                    <th scope="col">PTS</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">1</th>
+                                    <td>Brill Bruisers</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th scope="row">2</th>
+                                    <td>Darkshore Dribblers</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    <td>0</td>
+                                    
+                                </tr>
+                                <th scope="row">3</th>
+                                <td>Gadgetzan Goalrushers</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                
+                                </tr>
+                                <th scope="row">4</th>
+                                <td>Kharanos Kickers</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                
+                                </tr>
+                                <th scope="row">5</th>
+                                <td>Ratchet Reavers</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                
+                                </tr>
+                                <th scope="row">6</th>
+                                <td>Stormwind Stallions</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>0</td>
+                                
+                                </tr>
+                            </tbody>
+                        </table>
+                        <hr>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
@@ -106,9 +207,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <p class="card-text typewritter">
-                            But why the sudden surge of wannabe undertakers? Well, it seems that the heroes of the
-                            hardcore realms had been biting the dust with such frequency that the Undertakers' ledger
-                            looked more like a tome than a tally sheet. "Heroes falling left and right, and every one of
+                            "Heroes falling left and right, and every one of
                             them needs a proper send-off!" Lastrights had declared. After all, even the bravest human,
                             trembling before their untimely demise, deserved a final farewell worthy of song—or at least
                             a footnote in "mrglglglgl."
@@ -121,14 +220,15 @@
                             embalming fluid samples, and some even sporting prototype
                             pocket-sized tombstones for the adventurer on the go.
                         </p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="card mt-8">
                         <p class="card-text typewritter">
                             "It's all about efficiency," winked a wide-eyed applicant, unveiling a tombstone that
                             doubled as a dinner plate.
                         </p>
+
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mt-8">
                         <p class="card-text typewritter"> Lastrights surveyed the chaos with glee. Each new recruit
                             meant more hands to dig, more
                             pockets to fill, and, most importantly, more eyes to witness his entrepreneurial empire. The
@@ -188,14 +288,15 @@
                             <li>Westfall</li>
                             <li>Winterspring</li>
                         </ul>
+                        <img src="/images/298984844751733_ref_00001_.png" class="photos-article" alt="Murloc Bikini">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="card mt-8">
                         <div class="author-media"> <!-- This div will be the flex container -->
-                            <img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" height="28"
-                                width="28" class="card-img-top" alt="Author Picture">
-                            <span class="author">by Trixie Boomsparkle</span>
+                            <img src="images/favorite_FILL0_wght400_GRAD0_opsz24.png" width="28" height="28"
+                                class="card-img-top" alt="Author Picture">
+                            <span class="author typewritter">by Trixie Boomsparkle</span>
                         </div>
                         <h5 class="card-title">Scales and Tales: Ratchet's Murloc Bikini Contest Makes a Splash!</h5>
                         <p class="card-text typewritter">
