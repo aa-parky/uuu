@@ -40,7 +40,7 @@
 
         <div class="sub-header">
             <div id="sub-dt">
-                Date &amp; Time
+                11th November,
             </div>
             <div id="sub-vol">
                 Volume 1 &amp; Issue 1
@@ -64,8 +64,11 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" alt="News Icon"></div>
-                            <div class="flex-text-right"><span class="author typewritter">by Wizzik Sprocketslip</span></div>
+                            <div class="flex-image-left"><img
+                                    src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" alt="News Icon">
+                            </div>
+                            <div class="flex-text-right"><span class="author typewritter">by Wizzik Sprocketslip</span>
+                            </div>
                         </div>
                         <h5 class="card-title">'final service extravaganza'</h5>
                         <p class="card-text typewritter">
@@ -84,8 +87,8 @@
                         </p>
                         <p class="card-text typewritter">
                             But why the sudden surge of wannabe undertakers? Well, it seems that the heroes of the
-                            hardcore realms had been biting the dust with such frequency that the Undertakers' ledger
-                            looked more like a tome than a tally sheet. </p>
+                            hardcore realms had been <img src="/images/dragon-marker-01.png" class="photos-article-no-border" style="float: left;" alt="arrow"> biting the dust with such frequency that the Undertakers' ledger
+                            looked more like a tome than a tally sheet.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
@@ -215,7 +218,7 @@
                         <p class="card-text typewritter">
                             The Ratchet office, usually reserved for hush-hush deals and the occasional coin-counting
                             contest,
-                            had been transformed into a raucous recruitment rally. Hopefuls arrived with shovels slung
+                            had been <img src="/images/arrow_up_right_02.png" class="photos-article-no-border" style="float: right;" alt="arrow">transformed into a raucous recruitment rally. Hopefuls arrived with shovels slung
                             over shoulders
                             embalming fluid samples, and some even sporting prototype
                             pocket-sized tombstones for the adventurer on the go.
@@ -242,12 +245,14 @@
                             "Apply within!" the sign read, bobbing above the crowd. "Where there's doom, there's gold!"
                             And in the world of the Undertakers, business was booming—or should we say, "dooming"?
                         </p>
+                        <hr>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/list_FILL0_wght400_GRAD0_opsz24.png" alt="List Icon"></div>
+                            <div class="flex-image-left"><img src="images/list_FILL0_wght400_GRAD0_opsz24.png"
+                                    alt="List Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">Index</span></div>
                         </div>
                         <ul class="typewritter">
@@ -259,8 +264,9 @@
                             <li><strong>Classifieds:</strong> Rikt Copperpinch</li>
                             <li><strong>Sports:</strong> Blix Blastrocket</li>
                         </ul>
-                        <p><img src="/images/soccer_02.png" class="img-fluid photos-article" alt="Soccer Match"></p>
-                        <div class="gob-photo">Photograph by Capture Cap'n Crank</div>
+                        <p><img src="/images/wow_classic_maps/Redridge.jpg" class="img-fluid photos-article"
+                                alt="Soccer Match"></p>
+                        <div class="gob-photo">Redridge Offices Opening Soon!</div>
                     </div>
                 </div>
             </div>
@@ -270,10 +276,11 @@
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/savings_FILL0_wght400_GRAD0_opsz24.png" alt="Fav Icon"></div>
+                            <div class="flex-image-left"><img src="images/savings_FILL0_wght400_GRAD0_opsz24.png"
+                                    alt="Fav Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">Stocks</span></div>
                         </div>
-                        <ul>
+                        <ul class="typewritter">
                             <li><strong>BBE</strong> - as volatile as a barrel of Blast-O-Powder.</li>
                             <li><strong>BB&PP</strong> - the shadowy side of goblin politics.</li>
                             <li><strong>GG&SS</strong> - Want a piece of the Page 3 action?</li>
@@ -282,12 +289,40 @@
                             <li><strong>S&SC</strong> - the best informants.</li>
                             <li><strong>SS&GG</strong> - Whether it's Ogre wrestling or Mechanostrider racing.</li>
                         </ul>
-                    </div>
-                </div>
+<hr>
+                        <div class="flex-image-text">
+                            <div class="flex-image-left"><img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png"
+                                    alt="Fav Icon"></div>
+                            <div class="flex-text-right"><span class="author typewritter">by Mazzle Shinegadget</span>
+                            </div>
+                        </div>
+                        <h5 class="card-title">New Office 'Burrows' into Redridge"</h5>
+
+                        <p class="card-text typewritter">In an undisclosed nook of Redridge, where the shadows whisper secrets and the earth itself
+                            holds its breath, a new field office of the Undermine Undertakers is said to be opening
+                            soon. Led by the notoriously discreet Lastrights Rumblecoin, <img src="/images/x-marks-02.png" class="photos-article-no-border" style="float:left;" alt="x marks the spot">this band of
+                            faction-independent Goblins operates beyond the fringe, providing 'final services' for the
+                            bravest souls who've met their untimely end in Hardcore mode.</p>
+
+                        <p class="card-text typewritter">Rumors swirl like the mists of the Loch, suggesting that this new office will offer a range
+                            of 'afterlife accommodations' – from securing a hero's hard-earned loot to ensuring their
+                            tales of valor are sung in the taverns across Azeroth.</p>
+
+                        <p class="card-text typewritter">Yet, the exact location of this office remains as elusive as a rogue in stealth. Wink-wink,
+                            nudge-nudge, say no more – those in the know understand that finding the Undermine
+                            Undertakers is part of the journey. <img src="/images/arrow_up_right_02.png" class="photos-article-no-border" style="float: right;" alt="arrow">It's said that a clever clue-seeker should follow the
+                            trails not on any map, where only the bravest dare to tread.</p>
+                            
+                               
+                            
+                    </div><!-- end class="card mt-8"-->
+                </div><!-- end class="col-lg-3 col-md-6 col-sm-12" -->
+
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/sunny_FILL0_wght400_GRAD0_opsz24.png" alt="Sun Icon"></div>
+                            <div class="flex-image-left"><img src="images/sunny_FILL0_wght400_GRAD0_opsz24.png"
+                                    alt="Sun Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">Weather</span></div>
                         </div>
                         <ul class="typewritter">
@@ -301,13 +336,30 @@
                         </ul>
                         <img src="/images/298984844751733_ref_00001_.png" class="photos-article" alt="Murloc Bikini">
                         <div class="gob-photo">Picture by Pixel Pixik</div>
+                        <hr>
+
+                        <p class="card-text typewritter">Lastrights Rumblecoin, the enigmatic leader of this goblin group, is renowned for his
+                            discretion and efficiency. "We take care of those who've taken their last breath,"
+                            Rumblecoin was heard saying at a clandestine congregation. "And business is boomin' –
+                            because in Hardcore mode, everyone needs a friend on the other side."</p>
+
+                        <p class="card-text typewritter">While some may see the Undermine Undertakers' services as morbid, there's a certain comfort
+                            in knowing that, even in death, the heroes of Hardcore mode are never forgotten, and their
+                            legacies are in capable, if slightly greasy, hands.</p>
+
+                        <p class="card-text typewritter">So keep your eyes peeled and your ears to the ground. The opening of the Undermine
+                            Undertakers' Redridge office is imminent, and for those who find it, the rewards – and
+                            stories – could be life-changing. Or should we say... afterlife-changing?</p>
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/favorite_FILL0_wght400_GRAD0_opsz24.png" alt="Fav Icon"></div>
-                            <div class="flex-text-right"><span class="author typewritter">by Trixie Boomsparkle</span></div>
+                            <div class="flex-image-left"><img src="images/favorite_FILL0_wght400_GRAD0_opsz24.png"
+                                    alt="Fav Icon"></div>
+                            <div class="flex-text-right"><span class="author typewritter">by Trixie Boomsparkle</span>
+                            </div>
                         </div>
                         <h5 class="card-title">Scales and Tales: Ratchet's Murloc Bikini Contest Makes a Splash!</h5>
                         <p class="card-text typewritter">
@@ -343,14 +395,12 @@
                         <p class="card-text typewritter">
                             The event spiraled into further pandemonium when the grand finale took an unexpected dive.
                             As
-                            the reigning queen of the murlocs, Glrgl the Gleaming, made her appearance adorned in what
+                            the reigning queen of the murlocs, Glrgl <img src="/images/beach-umbrella_.png" class="photos-article-no-border" style="float: right;" alt="beach-umbrella">the Gleaming, made her appearance adorned in what
                             can
                             only be described as an "oceanic opera" of bioluminescent barnacles, the entire dock was
                             plunged
                             into darkness as overzealous fans inadvertently knocked over a generator in their
-                            excitement.</p>
-
-                        <p class="card-text typewritter"> In the end, the murlocs didn't seem to mind the mishaps. They
+                            excitement.In the end, the murlocs didn't seem to mind the mishaps. They
                             frolicked and caroled in their
                             unique gurgling dialect, basking in the spotlight and the adoration of their fans. Glix
                             Wavesmasher, ever the opportunist, declared the event a "resounding success" amid the chaos,
@@ -378,11 +428,11 @@
 
     </div> <!-- /container -->
 
-    <footer class="footer">
+    <footer class="footer typewritter">
         <div id="flex-footer">
-            <div id="flex-footer-left">the Undermine Undertaker's Update 2017</div>
-            <div id="flex-footer-centre">Centre</div>
-            <div id="flex-footer-right">Right</div>
+            <div id="flex-footer-left">About</div>
+            <div id="flex-footer-centre">&copy; the Undermine Undertaker's Update 2017</div>
+            <div id="flex-footer-right">Privacy</div>
         </div>
     </footer>
 
