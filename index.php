@@ -5,12 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>the Undermine Undertakers</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <!-- My CSS -->
     <link rel="stylesheet" href="css/paper.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/backgrounds.css">
     <link rel="stylesheet" href="css/main.css">
     <!-- adobe fonts -->
     <link rel="stylesheet" href="https://use.typekit.net/tkq4iko.css">
@@ -23,7 +23,7 @@
 
         <div class="header">
             <div id="flex-header-left">
-            <img src="/images/stamp-00.png" class="stamp-header" alt="stamp">
+                <img src="/images/stamp-00.png" class="stamp-header" alt="stamp">
             </div>
 
             <div id="flex-header-center">
@@ -60,10 +60,9 @@
             <!-- Top News Column -->
             <div class="row news-columns-top">
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="card mt-8">
+                    <div class="card mt-8 unique-background-6">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img
-                                    src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" alt="News Icon">
+                            <div class="flex-image-left"><img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" alt="News Icon">
                             </div>
                             <div class="flex-text-right"><span class="author typewritter">by Wizzik Sprocketslip</span>
                             </div>
@@ -189,15 +188,15 @@
                                 </tr>
                             </tbody>
                         </table>
-                        
+
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="card mt-8">
-                        <p><img src="/images/mrgl-magah-00.png" class="img-fluid photos-article" alt="Mrgl Magah"></p>
-                        <p><img src="/images/ad00.png" class="img-fluid photos-article" alt="Advert 01"></p>
-                        <p><img src="/images/mrgl-magah-03.png" class="img-fluid photos-article" alt="Movie Poster"></p>
-                        <p><img src="/images/ad002.png" class="img-fluid photos-article" alt="Advert 02"></p>
+                        <p><img src="/images/mrgl-magah-00.png" class="img-fluid photos-ads-no-border" alt="Mrgl Magah"></p>
+                        <p><img src="/images/ad00.png" class="img-fluid photos-ads-no-border" alt="Advert 01"></p>
+                        <p><img src="/images/mrgl-magah-03.png" class="img-fluid photos-ads-no-border" alt="Movie Poster"></p>
+                        <p><img src="/images/ad002.png" class="img-fluid photos-ads-no-border" alt="Advert 02"></p>
 
                     </div>
                 </div>
@@ -206,7 +205,7 @@
             <!-- Middle News Column -->
             <div class="row news-columns-mid">
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="card mt-8">
+                    <div class="card mt-8 unique-background-7">
                         <p class="card-text typewritter">
                             "Heroes falling left and right, and every one of
                             them needs a proper send-off!" Lastrights had declared. After all, even the bravest human,
@@ -229,7 +228,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="card mt-8">
+                    <div class="card mt-8 unique-background-5">
                         <p class="card-text typewritter"> Lastrights surveyed the chaos with glee. Each new recruit
                             meant more hands to dig, more
                             pockets to fill, and, most importantly, more eyes to witness his entrepreneurial empire. The
@@ -243,14 +242,13 @@
                             "Apply within!" the sign read, bobbing above the crowd. "Where there's doom, there's gold!"
                             And in the world of the Undertakers, business was booming—or should we say, "dooming"?
                         </p>
-                        <hr>
+
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/list_FILL0_wght400_GRAD0_opsz24.png"
-                                    alt="List Icon"></div>
+                            <div class="flex-image-left"><img src="images/list_FILL0_wght400_GRAD0_opsz24.png" alt="List Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">Index</span></div>
                         </div>
                         <ul class="typewritter">
@@ -262,8 +260,7 @@
                             <li><strong>Classifieds:</strong> Rikt Copperpinch</li>
                             <li><strong>Sports:</strong> Blix Blastrocket</li>
                         </ul>
-                        <p><img src="/images/wow_classic_maps/Redridge.jpg" class="img-fluid photos-article"
-                                alt="Soccer Match"></p>
+                        <p><img src="/images/wow_classic_maps/Redridge.jpg" class="img-fluid photos-article" alt="Soccer Match"></p>
                         <div class="gob-photo">Redridge Offices Opening Soon!</div>
                     </div>
                 </div>
@@ -274,8 +271,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/savings_FILL0_wght400_GRAD0_opsz24.png"
-                                    alt="Fav Icon"></div>
+                            <div class="flex-image-left"><img src="images/savings_FILL0_wght400_GRAD0_opsz24.png" alt="Fav Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">Stocks</span></div>
                         </div>
                         <ul class="typewritter">
@@ -287,10 +283,9 @@
                             <li><strong>S&SC</strong> - the best informants.</li>
                             <li><strong>SS&GG</strong> - Whether it's Ogre wrestling or Mechanostrider racing.</li>
                         </ul>
-<hr>
+                        <hr>
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png"
-                                    alt="Fav Icon"></div>
+                            <div class="flex-image-left"><img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" alt="Fav Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">by Mazzle Shinegadget</span>
                             </div>
                         </div>
@@ -310,17 +305,16 @@
                             nudge-nudge, say no more – those in the know understand that finding the Undermine
                             Undertakers is part of the journey. <img src="/images/arrow_up_right_02.png" class="photos-article-no-border" style="float: right;" alt="arrow">It's said that a clever clue-seeker should follow the
                             trails not on any map, where only the bravest dare to tread.</p>
-                            
-                               
-                            
+
+
+
                     </div><!-- end class="card mt-8"-->
                 </div><!-- end class="col-lg-3 col-md-6 col-sm-12" -->
 
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="card mt-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/sunny_FILL0_wght400_GRAD0_opsz24.png"
-                                    alt="Sun Icon"></div>
+                            <div class="flex-image-left"><img src="images/sunny_FILL0_wght400_GRAD0_opsz24.png" alt="Sun Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">Weather</span></div>
                         </div>
                         <ul class="typewritter">
@@ -352,10 +346,9 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="card mt-8">
+                    <div class="card mt-8 unique-background-8">
                         <div class="flex-image-text">
-                            <div class="flex-image-left"><img src="images/favorite_FILL0_wght400_GRAD0_opsz24.png"
-                                    alt="Fav Icon"></div>
+                            <div class="flex-image-left"><img src="images/favorite_FILL0_wght400_GRAD0_opsz24.png" alt="Fav Icon"></div>
                             <div class="flex-text-right"><span class="author typewritter">by Trixie Boomsparkle</span>
                             </div>
                         </div>
@@ -434,9 +427,7 @@
         </div>
     </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 
 </html>

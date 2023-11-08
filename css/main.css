@@ -83,6 +83,7 @@ hr {
 
 .card {
     border: none;
+    padding: 8px;
     --bs-card-bg: #fff0;
 }
 
@@ -98,6 +99,11 @@ hr {
 .photos-article-no-border {
     opacity: 0.8;
     width: 20%;
+    height: auto;
+}
+
+.photos-ads-no-border {
+    opacity: 0.8;
     height: auto;
 }
 
