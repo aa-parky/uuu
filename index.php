@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>the Undermine Undertakers</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <!-- My CSS -->
@@ -23,16 +23,14 @@
 
         <div class="header">
             <div id="flex-header-left">
-                <div>
-                    Morning Edition
-                </div>
+            <img src="/images/stamp-00.png" class="stamp-header" alt="stamp">
             </div>
 
             <div id="flex-header-center">
                 The Undermine Undertaker's Update
             </div>
             <div id="flex-header-right">
-                Daily
+                Monthly
             </div>
         </div>
 
@@ -99,7 +97,7 @@
                     <hr>
                     <div class="soccer-table">
                         <div class="soccer-header">Division 1: The Champions Tier</div>
-                        <table class="table table-sm typewritter">
+                        <table class="table table-sm custom-bg typewritter">
                             <thead>
                                 <tr>
                                     <th scope="col">#</th>
@@ -191,7 +189,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <hr>
+                        
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
