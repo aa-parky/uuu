@@ -193,9 +193,9 @@
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="card mt-8">
-                        <p><img src="/images/mrgl-magah-00.png" class="img-fluid photos-ads-no-border" alt="Mrgl Magah"></p>
-                        <p><img src="/images/ad00.png" class="img-fluid photos-ads-no-border" alt="Advert 01"></p>
-                        <p><img src="/images/mrgl-magah-03.png" class="img-fluid photos-ads-no-border" alt="Movie Poster"></p>
+                        <p><img src="/images/play-online-01.png" class="img-fluid photos-ads-no-border" alt="Field Office"></p>
+                        <p><img src="/images/terminal-00.png" class="img-fluid photos-ads-no-border" alt="Play Online"></p>
+                        <p><img src="/images/mail-box-00.png" class="img-fluid photos-ads-no-border" alt="Mail Box"></p>
                         <p><img src="/images/ad002.png" class="img-fluid photos-ads-no-border" alt="Advert 02"></p>
 
                     </div>
@@ -252,13 +252,13 @@
                             <div class="flex-text-right"><span class="author typewritter">Index</span></div>
                         </div>
                         <ul class="typewritter">
-                            <li><strong>Business:</strong> Snazzle Gearfuse</li>
-                            <li><strong>Politics:</strong> Wizzik Sprocketslip</li>
-                            <li><strong>Page 3:</strong> Pixie Steamspark</li>
-                            <li><strong>Entertainment:</strong> Ziggy Gearpop</li>
-                            <li><strong>Obituaries:</strong> Sappy Goldwrench</li>
-                            <li><strong>Classifieds:</strong> Rikt Copperpinch</li>
-                            <li><strong>Sports:</strong> Blix Blastrocket</li>
+                            <li><a href="#" >Business:</a> Snazzle Gearfuse</li>
+                            <li><a href="#">Politics:</a> Wizzik Sprocketslip</li>
+                            <li><a href="#">Page 3:</a> Pixie Steamspark</li>
+                            <li><a href="#">Entertainment:</a> Ziggy Gearpop</li>
+                            <li><a href="#">Obituaries:</a> Sappy Goldwrench</li>
+                            <li><a href="#">Classifieds:</a> Rikt Copperpinch</li>
+                            <li><a href="#">Sports:</a> Blix Blastrocket</li>
                         </ul>
                         <p><img src="/images/wow_classic_maps/Redridge.jpg" class="img-fluid photos-article" alt="Soccer Match"></p>
                         <div class="gob-photo">Redridge Offices Opening Soon!</div>
