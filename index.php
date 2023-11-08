@@ -71,7 +71,7 @@
                         <p class="card-text typewritter">
                             In the bustling bazaar of Ratchet, where the clinks of gold are as common as the clatter of
                             gears, a peculiar scene unfolded that even the most brazen buccaneer couldn't help but gawk
-                            at. The Undermine Undertakers, Azeroth's premier post-mortem property purveyors, found
+                            at. <span class="article-comic-red"> Undermine Undertakers</span>, Azeroth's premier post-mortem property purveyors, found
                             themselves swamped with applicants - a motley crew of goblins of all shapes and grins, each
                             clamoring to join the ranks of the most spirited (and profitable) enterprise this side of
                             the Great Sea.
@@ -79,8 +79,8 @@
                         <p class="card-text typewritter">
                             Led by Lastrights Rumblecoin, a goblin so shrewd he'd charge you for the dirt your boots
                             carried into his office, the Undertakers had put out the call for additional hands. Or
-                            claws. Or whatever appendages one might bring to the table. "Graveyard shifts ain't never
-                            been this lively!" cackled Lastrights, his own pockets jingling with the sound of success.
+                            claws. Or whatever appendages one might bring to the table. <span class="article-comic-red">"Graveyard shifts ain't never
+                            been this lively!"</span> cackled Lastrights, his own pockets jingling with the sound of success.
                         </p>
                         <p class="card-text typewritter">
                             But why the sudden surge of wannabe undertakers? Well, it seems that the heroes of the
@@ -207,10 +207,10 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-8 unique-background-7">
                         <p class="card-text typewritter">
-                            "Heroes falling left and right, and every one of
-                            them needs a proper send-off!" Lastrights had declared. After all, even the bravest human,
+                            <span class="article-comic-red"> "Heroes falling left and right, and every one of
+                            them needs a proper send-off!"</span> Lastrights had declared. After all, even the bravest human,
                             trembling before their untimely demise, deserved a final farewell worthy of song—or at least
-                            a footnote in "mrglglglgl."
+                            a footnote in <a href="https://mrglglglgl.com">"mrglglglgl."</a>
                         </p>
                         <p class="card-text typewritter">
                             The Ratchet office, usually reserved for hush-hush deals and the occasional coin-counting
@@ -239,7 +239,7 @@
                             reaped the rewards, their laughter echoing through the streets, mingling with the clinks of
                             their ill-gotten gains and the inevitable cries of those heroes yet to fall.
 
-                            "Apply within!" the sign read, bobbing above the crowd. "Where there's doom, there's gold!"
+                            <span class="article-comic-red">"Apply within!"</span> the sign read, bobbing above the crowd. "Where there's doom, there's gold!"
                             And in the world of the Undertakers, business was booming—or should we say, "dooming"?
                         </p>
 
@@ -298,7 +298,7 @@
                             bravest souls who've met their untimely end in Hardcore mode.</p>
 
                         <p class="card-text typewritter">Rumors swirl like the mists of the Loch, suggesting that this new office will offer a range
-                            of 'afterlife accommodations' – from securing a hero's hard-earned loot to ensuring their
+                            of <span class="article-comic-red">'afterlife accommodations'</span> from securing a hero's hard-earned loot to ensuring their
                             tales of valor are sung in the taverns across Azeroth.</p>
 
                         <p class="card-text typewritter">Yet, the exact location of this office remains as elusive as a rogue in stealth. Wink-wink,
@@ -332,8 +332,8 @@
 
                         <p class="card-text typewritter">Lastrights Rumblecoin, the enigmatic leader of this goblin group, is renowned for his
                             discretion and efficiency. "We take care of those who've taken their last breath,"
-                            Rumblecoin was heard saying at a clandestine congregation. "And business is boomin' –
-                            because in Hardcore mode, everyone needs a friend on the other side."</p>
+                            Rumblecoin was heard saying at a clandestine congregation. <span class="article-comic-red">"And business is boomin' –
+                            because in Hardcore mode, everyone needs a friend on the other side."</span></p>
 
                         <p class="card-text typewritter">While some may see the Undermine Undertakers' services as morbid, there's a certain comfort
                             in knowing that, even in death, the heroes of Hardcore mode are never forgotten, and their
@@ -362,7 +362,7 @@
                             troubles
                             that even the saltiest of seadogs hadn't seen coming.</p>
                         <p class="card-text typewritter">
-                            The event, dubbed "The Siren's Parade," was the brainchild of Glix Wavesmasher, a goblin
+                            The event, dubbed <span class="article-comic-red">"The Siren's Parade,"</span> was the brainchild of Glix Wavesmasher, a goblin
                             with an
                             eye for business and a love for the utterly unconventional. "Why should landwalkers have all
                             the
@@ -377,7 +377,7 @@
                             quite
                             the commotion among the front-row spectators.</p>
                         <p class="card-text typewritter">
-                            Midway through the contest, a particularly robust murloc contestant, Mrgl the Mighty,
+                            Midway through the contest, a particularly robust murloc contestant, <span class="article-comic-red">Mrgl the Mighty</span>,
                             presented
                             a stunning spectacle with an ensemble featuring live guppies. However, the fishy fashion
                             statement quickly backfished, turning the catwalk into a freestyle frenzy as the guppies
@@ -388,13 +388,13 @@
                             As
                             the reigning queen of the murlocs, Glrgl <img src="/images/beach-umbrella_.png" class="photos-article-no-border" style="float: right;" alt="beach-umbrella">the Gleaming, made her appearance adorned in what
                             can
-                            only be described as an "oceanic opera" of bioluminescent barnacles, the entire dock was
+                            only be described as an <span class="article-comic-red">"oceanic opera"</span> of bioluminescent barnacles, the entire dock was
                             plunged
                             into darkness as overzealous fans inadvertently knocked over a generator in their
                             excitement.In the end, the murlocs didn't seem to mind the mishaps. They
                             frolicked and caroled in their
                             unique gurgling dialect, basking in the spotlight and the adoration of their fans. Glix
-                            Wavesmasher, ever the opportunist, declared the event a "resounding success" amid the chaos,
+                            Wavesmasher, ever the opportunist, declared the event a <span class="article-comic-red">"resounding success"</span> amid the chaos,
                             vowing to make the Murloc Bikini Contest an annual tradition.</p>
                         <p class="card-text typewritter">
                             Despite the setbacks, one thing was clear: the combination of murloc fashionistas and goblin
@@ -411,7 +411,7 @@
                             every
                             shimmering, shambling step.</p>
                         <p class="card-text typewritter">
-                            Until then, keep your fins flirty and your scales sparkling, Ratchet!</p>
+                        <span class="article-comic-red">Until the next ISSUE, keep your fins flirty and your scales sparkling, Ratchet!</span></p>
                     </div>
                 </div>
             </div>

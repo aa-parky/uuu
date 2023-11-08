@@ -58,6 +58,12 @@
     padding: 4px;
 }
 
+.article-comic-red {
+    font-family: "cc-mighty-mouth-variable", sans-serif;
+	font-variation-settings: 'wght' 700, 'ital' 10, 'BOUN' 0;
+	color: #8C0303;
+}
+
 /* For medium screens (tablets) */
 @media (max-width: 991px) {
     #flex-header-left, #flex-header-center, #flex-header-right, .headlines {
