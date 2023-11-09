@@ -92,8 +92,9 @@
                 <div class="card mt-8">
                     <p><img src="/images/play-online-01.png" class="img-fluid photos-ads-no-border" alt="Field Office"></p>
                     <p><img src="/images/terminal-00.png" class="img-fluid photos-ads-no-border" alt="Play Online"></p>
-                    <p><img src="/images/mail-box-00.png" class="img-fluid photos-ads-no-border" alt="Mail Box"></p>
-                    <p><img src="/images/ad002.png" class="img-fluid photos-ads-no-border" alt="Advert 02"></p>
+                    <p><img src="/images/messages-01.png" class="img-fluid photos-ads-no-border" alt="Messages"></p>
+                    <p><img src="/images/characters-01.png" class="img-fluid photos-ads-no-border" alt="Characters"></p>
+                    <p><img src="/images/help-01.png" class="img-fluid photos-ads-no-border" alt="Help"></p>
                 </div>
             </div>
         </div>
