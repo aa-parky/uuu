@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>the Undermine Undertakers</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- php -->
+    <?php include 'scripts/article-parse.php'; ?>
     <!-- My CSS -->
     <link rel="stylesheet" href="css/paper.css">
     <link rel="stylesheet" href="css/fonts.css">
@@ -60,24 +62,6 @@
         <!-- END Headline-->
 
         <!-- END Headers -->
-
-
-        <?php
-        // Read the content of the article file
-        $article_content = file_get_contents('articles/article-01.php');
-
-        // Use preg_split to split the content into words
-        $word_array = preg_split('/\s+/', $article_content);
-
-        // Take the first 174 words for the first column
-        $first_part_word_count = 214;
-        $first_part = implode(' ', array_slice($word_array, 0, $first_part_word_count));
-
-        // Take the remaining words for the second column
-        $second_part = implode(' ', array_slice($word_array, $first_part_word_count));
-
-        ?>
-
 
         <!-- Top News Column -->
         <div class="row news-columns-top">
@@ -169,23 +153,6 @@
                     </ul>
                     <hr>
                     <!-- END Row 6 COL 1 TOP-->
-
-
-                    <?php
-                    // Read the content of the article file
-                    $article_content2 = file_get_contents('articles/article-02.php');
-
-                    // Use preg_split to split the content into words
-                    $word_array2 = preg_split('/\s+/', $article_content2);
-
-                    // Take the first 174 words for the first column
-                    $first_part_word_count2 = 199;
-                    $first_part2 = implode(' ', array_slice($word_array2, 0, $first_part_word_count2));
-
-                    // Take the remaining words for the second column
-                    $second_part2 = implode(' ', array_slice($word_array2, $first_part_word_count2));
-
-                    ?>
 
                     <!-- Row 6 COL 1 Bottom -->
                     <p class="card-text typewritter">
