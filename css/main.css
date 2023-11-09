@@ -62,8 +62,8 @@ a {
     border: 2px dashed black; /* Replace with your desired color and thickness */
   }
 
-.custom-bg {
-    background-image: url('/images/banner-03.png');
+.custom-bg { /* used in division table*/
+    background-image: url('/images/table-00.png');
     background-size: cover; /* This will make sure that your image covers the entire div */
     background-repeat: no-repeat; /* This will prevent the image from tiling */
     background-position: center;
@@ -115,6 +115,10 @@ a {
     max-width: 100%;
     height: auto;
     /* This ensures that the aspect ratio is maintained */
+}
+
+.extra-op {
+    opacity: 20%;
 }
 
 .author-media {

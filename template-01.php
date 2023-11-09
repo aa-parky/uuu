@@ -83,15 +83,15 @@
                 <hr>
                 <div class="soccer-table">
                     <?php include('tables/soccer_division1_table.php'); ?>
-                    <img src="/images/banner-04.png" alt="mountain passage" class="img-fluid photos-ads-no-border">
+                    <img src="/images/banner-05.png" alt="mountain passage" class="img-fluid photos-ads-no-border extra-op">
                 </div>
             </div>
 
             <!-- Row 4 COL 3-->
             <div class="col-lg-2 col-md-6 col-sm-12">
                 <div class="card mt-8">
-                    <p><img src="/images/play-online-01.png" class="img-fluid photos-ads-no-border" alt="Field Office"></p>
-                    <p><img src="/images/terminal-00.png" class="img-fluid photos-ads-no-border" alt="Play Online"></p>
+                    <p><img src="/images/field-office-01.png" class="img-fluid photos-ads-no-border" alt="Field Office"></p>
+                    <p><img src="/images/play-online-01.png" class="img-fluid photos-ads-no-border" alt="Play Online"></p>
                     <p><img src="/images/messages-01.png" class="img-fluid photos-ads-no-border" alt="Messages"></p>
                     <p><img src="/images/characters-01.png" class="img-fluid photos-ads-no-border" alt="Characters"></p>
                     <p><img src="/images/help-01.png" class="img-fluid photos-ads-no-border" alt="Help"></p>
