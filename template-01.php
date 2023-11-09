@@ -54,7 +54,7 @@
         <!-- Headline-->
         <div>
             <div class="headlines">
-                Grave Matters and Gold Clatters *!*
+                [headline]
             </div>
         </div>
         <!-- END Headline-->
@@ -70,10 +70,10 @@
                     <div class="flex-image-text">
                         <div class="flex-image-left"><img src="images/breaking_news_alt_1_FILL0_wght400_GRAD0_opsz24.png" alt="News Icon">
                         </div>
-                        <div class="flex-text-right"><span class="author typewritter">by Wizzik Sprocketslip</span>
+                        <div class="flex-text-right"><span class="author typewritter">by [Author]</span>
                         </div>
                     </div>
-                    <h5 class="card-title">final service extravaganza</h5>
+                    <h5 class="card-title">[article-title]</h5>
                     <p class="card-text typewritter">
                         In the bustling bazaar of Ratchet, where the clinks of gold are as common as the clatter of
                         gears, a peculiar scene unfolded that even the most brazen buccaneer couldn't help but gawk
@@ -105,7 +105,6 @@
                 <div class="soccer-table">
                     <?php include('tables/soccer_division1_table.php'); ?>
                 </div>
-                <img src="/images/banner-04.png" alt="mountain passage" class="img-fluid photos-ads-no-border">
             </div>
 
             <!-- Row 4 COL 3-->
@@ -115,13 +114,12 @@
                     <p><img src="/images/terminal-00.png" class="img-fluid photos-ads-no-border" alt="Play Online"></p>
                     <p><img src="/images/mail-box-00.png" class="img-fluid photos-ads-no-border" alt="Mail Box"></p>
                     <p><img src="/images/ad002.png" class="img-fluid photos-ads-no-border" alt="Advert 02"></p>
-                    <p><img src="/images/characters-01.png" class="img-fluid photos-ads-no-border" alt="Characters"></p>
 
                 </div>
             </div>
         </div>
         <!-- END Top News Column -->
-        
+        <hr>
         <!-- Middle News Column -->
         <div class="row news-columns-mid">
             <!-- Row 5 COL 1-->
@@ -187,7 +185,7 @@
             </div>
         </div>
         <!-- END Middle News Column -->
-       
+        <hr>
         <!-- Bottom News Column -->
         <div class="row news-columns-bottom">
             <!-- Row 6 COL 1-->
