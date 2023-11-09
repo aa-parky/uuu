@@ -16,8 +16,8 @@
     tales of valor are sung in the taverns across Azeroth.</p>
 
 <p class="card-text typewritter">Yet, the exact location of this office remains as elusive as a rogue in stealth. Wink-wink,
-    nudge-nudge, say no more – those in the know understand that finding the Undermine
-    Undertakers is part of the journey. <img src="/images/arrow_up_right_02.png" class="photos-article-no-border" style="float: right;" alt="arrow">It's said that a clever clue-seeker should follow the
+    nudge-nudge, say no more – those in <img src="/images/arrow_up_right_02.png" class="photos-article-no-border" style="float: right;" alt="arrow">the know understand that finding the Undermine
+    Undertakers is part of the journey. It's said that a clever clue-seeker should follow the
     trails not on any map, where only the bravest dare to tread.</p>
 <p class="card-text typewritter">Lastrights Rumblecoin, the enigmatic leader of this goblin group, is renowned for his
     discretion and efficiency. "We take care of those who've taken their last breath,"
