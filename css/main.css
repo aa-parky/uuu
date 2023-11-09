@@ -132,6 +132,23 @@ a {
     flex-direction: row;
 }
 
+.multi-column-text {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2;    /* Firefox */
+    column-count: 2;         /* standard syntax */
+    
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px;    /* Firefox */
+    column-gap: 20px;         /* standard syntax */
+    
+    /* Optional: to create a dividing line between columns: */
+    -webkit-column-rule: 1px solid #ccc; /* Chrome, Safari, Opera */
+    -moz-column-rule: 1px solid #ccc;    /* Firefox */
+    column-rule: 1px solid #ccc;         /* standard syntax */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 /* Bootstrap grid breakpoints adjustments */
 @media (min-width: 992px) {
 
