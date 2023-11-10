@@ -153,6 +153,14 @@ a {
     padding-bottom: 20px;
 }
 
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .multi-column-text {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
 /* Bootstrap grid breakpoints adjustments */
 @media (min-width: 992px) {
 
