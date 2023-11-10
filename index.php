@@ -83,7 +83,7 @@
                 <hr>
                 <div class="soccer-table">
                     <?php include('tables/soccer_division1_table.php'); ?>
-                    <img src="/images/banner-02.png" alt="mountain passage" class="img-fluid photos-ads-no-border extra-op">
+                    <img src="/images/table-footer-00.png" alt="mountain passage" class="img-fluid photos-ads-no-border extra-op">
                 </div>
             </div>
 
