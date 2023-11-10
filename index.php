@@ -68,7 +68,7 @@
 
             <!-- Row 4 COL 1-->
             <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card mt-8 unique-background-6">
+                <div class="card mt-8 unique-background-article-01">
                     <p class="card-text typewritter">
                         <?php echo $first_part; ?></p>
                 </div>
@@ -89,12 +89,19 @@
 
             <!-- Row 4 COL 3-->
             <div class="col-lg-2 col-md-6 col-sm-12">
-                <div class="card mt-8">
-                    <p><img src="/images/field-office-03.png" class="img-fluid photos-ads-no-border" alt="Field Office"></p>
-                    <p><img src="/images/play-online-03.png" class="img-fluid photos-ads-no-border" alt="Play Online"></p>
-                    <p><img src="/images/messages-03.png" class="img-fluid photos-ads-no-border" alt="Messages"></p>
-                    <p><img src="/images/characters-02.png" class="img-fluid photos-ads-no-border" alt="Characters"></p>
-                    <p><img src="/images/help-03.png" class="img-fluid photos-ads-no-border" alt="Help"></p>
+                <div class="card mt-8 typewritter">
+                    <a href="#">
+                        <p>Play Online<br><img src="/images/play-online-03.png" class="img-fluid photos-ads-no-border" alt="Play Online">
+                    </a></p>
+                    <a href="#">
+                        <p>Wiki<br><img src="/images/field-office-03.png" class="img-fluid photos-ads-no-border" alt="Field Office">
+                    </a></p>
+                    <a href="#">
+                        <p>Messages<br><img src="/images/messages-03.png" class="img-fluid photos-ads-no-border" alt="Messages">
+                    </a></p>
+                    <a href="#">
+                        <p>Help?!<br><img src="/images/help-03.png" class="img-fluid photos-ads-no-border" alt="Help">
+                    </a></p>
                 </div>
             </div>
         </div>
@@ -104,7 +111,7 @@
         <div class="row news-columns-mid">
             <!-- Row 5 COL 1-->
             <div class="col-lg-8 col-md-6 col-sm-12 multi-column-text">
-                <div class="card mt-8 unique-background-7">
+                <div class="card mt-8 unique-background-article-01-2col">
                     <p class="card-text typewritter">
                         <?php echo $second_part; ?></p>
                     </p>
@@ -171,7 +178,7 @@
                         <div class="flex-image-left"><img src="images/sunny_FILL0_wght400_GRAD0_opsz24.png" alt="Sun Icon"></div>
                         <div class="flex-text-right"><span class="author typewritter">Weather</span></div>
                     </div>
-                    <ul class="typewritter">
+                    <ul class="typewritter unique-background-weather-01">
                         <li><strong>Alterac:</strong> Winds a howlin'</li>
                         <li><strong>Azhara:</strong> Magical mists.</li>
                         <li><strong>Barrens:</strong> Hot</li>
@@ -193,7 +200,7 @@
 
             <!-- Row 6 COL 3-->
             <div class="col-lg-6 col-md-12 col-sm-12">
-                <div class="card mt-8 unique-background-8">
+                <div class="card mt-8 unique-background-article-03">
                     <?php include('articles/article-03.php'); ?>
                 </div>
             </div>

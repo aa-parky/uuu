@@ -1,57 +1,30 @@
-.unique-background-1 {
-    background-image: url('/images/background-01.png');
-    background-size: contain;
+  .unique-background-article-01 {
+    background-image: url('/images/background-article-01.png');
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    border-radius: 15px
+  }
+
+  .unique-background-article-01-2col {
+    background-image: url('/images/background-article-01-2col.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 15px
   }
   
-  .unique-background-2 {
-    background-image: url('/images/background-02.png');
+  .unique-background-article-03 {
+    background-image: url('/images/background-article-03.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 15px
+  }  
+
+  .unique-background-weather-01 {
+    background-image: url('/images/weather-00.png');
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left;
   }
-
-  .unique-background-3 {
-    background-image: url('/images/background-03.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-
-  .unique-background-4 {
-    background-image: url('/images/background-04.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-
-  .unique-background-5 {
-    background-image: url('/images/background-05.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-
-  .unique-background-6 {
-    background-image: url('/images/background-06.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  
-  .unique-background-7 {
-    background-image: url('/images/background-07.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-
-  .unique-background-8 {
-    background-image: url('/images/background-08.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  /* More unique background styles for other cards */
-  

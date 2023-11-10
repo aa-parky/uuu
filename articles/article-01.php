@@ -36,8 +36,6 @@
     over shoulders
     embalming fluid samples, and some even sporting prototype
     pocket-sized tombstones for the adventurer on the go.
-</p>
-<p class="card-text typewritter">
     "It's all about efficiency," winked a wide-eyed applicant, unveiling a tombstone that
     doubled as a dinner plate.
 </p>
