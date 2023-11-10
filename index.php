@@ -211,9 +211,9 @@
 
     <footer class="footer typewritter">
         <div id="flex-footer">
-            <div id="flex-footer-left">About</div>
+            <div id="flex-footer-left"><a href="#">About</a></div>
             <div id="flex-footer-centre">&copy; the Undermine Undertaker's Update 2017</div>
-            <div id="flex-footer-right">Privacy</div>
+            <div id="flex-footer-right"><a href="#">Privacy</a></div>
         </div>
     </footer>
 
