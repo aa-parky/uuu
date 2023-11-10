@@ -1,25 +1,22 @@
 .header {
     display: flex;
     justify-content: space-between;
-    position: relative; /* Needed for absolute positioning of the pseudo-element */
+    position: relative;
   }
   
   .header::before {
     content: '';
     background-image: url(/images/header-top-00.png);
-    opacity: 0.8; /* Set the opacity to the desired level, 0 is fully transparent and 1 is fully opaque */
+    opacity: 0.8;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
-    position: absolute; /* Position the pseudo-element */
-    z-index: -1; /* Place it behind the content */
+    position: absolute;
+    z-index: -1;
     border-radius: 15px
   }
   
-  /* Your other styles */
-  
-
 #flex-header-left {
     flex:0.5;
 }
@@ -32,7 +29,6 @@
     flex: 0.2;
 }
 
-
 .sub-header, .headlines {
     display: flex;
     justify-content: space-around;
@@ -42,29 +38,28 @@
 .sub-header::before {
     content: '';
     background-image: url(/images/header-mid-00.png);
-    opacity: 0.8; /* Set the opacity to the desired level, 0 is fully transparent and 1 is fully opaque */
+    opacity: 0.8;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
-    position: absolute; /* Position the pseudo-element */
-    z-index: -1; /* Place it behind the content */
+    position: absolute;
+    z-index: -1;
     border-radius: 5px
   }
 
   .headlines::before {
     content: '';
     background-image: url(/images/header-bot-00.png);
-    opacity: 0.8; /* Set the opacity to the desired level, 0 is fully transparent and 1 is fully opaque */
+    opacity: 0.8;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
-    position: absolute; /* Position the pseudo-element */
-    z-index: -1; /* Place it behind the content */
+    position: absolute;
+    z-index: -1;
     border-radius: 15px
   }
-
 
 .stamp-header {
     opacity: 0.8;
